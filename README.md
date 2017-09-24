@@ -4,9 +4,8 @@
 
 [Information about GitHub Pages](#github-pages-info)
 
-```
+
 #### Introduction
-```
 In-Memory databases...
 
 ```markdown
