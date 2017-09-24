@@ -2,7 +2,7 @@
 
 [View the Introduction](#introduction)
 
-[Information about GitHub Pages](#github-pages-info)
+[Information about GitHub Pages](https://damapak.github.io/emergent_database_tech/)
 
 [External Site](https://damapak.github.io/emergent_database_tech/main.md)
 
