@@ -1,6 +1,7 @@
 ## To visit main.md, click [here](https://damapak.github.io/emergent_database_tech/main.md)
 
 [View the Introduction](#introduction)
+
 [Information about GitHub Pages](#github-pages-info)
 
 #### Introduction
