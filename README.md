@@ -1,10 +1,10 @@
 ## IST Group 1
 
-#### To visit main.md, click [here](https://damapak.github.io/emergent_database_tech/main.md)
-
 [View the Introduction](#introduction)
 
 [Information about GitHub Pages](#github-pages-info)
+
+[External Site](https://damapak.github.io/emergent_database_tech/main.md)
 
 
 #### Introduction
@@ -47,3 +47,5 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damapak/emergent_database_tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+[top](#ist-group-1)
