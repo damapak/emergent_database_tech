@@ -1,4 +1,6 @@
-## To visit main.md, click [here](https://damapak.github.io/emergent_database_tech/main.md)
+## IST Group 1
+
+#### To visit main.md, click [here](https://damapak.github.io/emergent_database_tech/main.md)
 
 [View the Introduction](#introduction)
 
@@ -7,6 +9,8 @@
 
 #### Introduction
 In-Memory databases...
+
+[top](#ist-group-1)
 
 #### Github Pages Info
 
