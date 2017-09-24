@@ -1,7 +1,13 @@
 ## To visit main.md, click [here](https://damapak.github.io/emergent_database_tech/main.md)
 
 [View the Introduction](#introduction)
+[Information about GitHub Pages](#github-pages-info)
 
+#### Introduction
+In-Memory databases...
+
+
+#### Github Pages Info
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/damapak/emergent_database_tech/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
@@ -35,6 +41,3 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/damapak/emergent_database_tech/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-#### Introduction
-In-Memory databases...
