@@ -13,6 +13,3 @@ In-Memory databases...
 [top](#ist-group-1)
 
 
-
-
-[top](#ist-group-1)
