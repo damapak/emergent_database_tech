@@ -20,3 +20,4 @@ In-Memory databases...
 
 [top](#ist-group-1)
 
+[Presentation Outline](https://damapak.github.io/emergent_database_tech/presentation_outline)
