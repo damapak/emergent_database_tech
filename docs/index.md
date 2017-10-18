@@ -25,3 +25,5 @@ Other Considerations
 * Query Compilers
 
 Conclusion
+
+[About Github Pages](https://github.com/damapak/emergent_database_tech/docs/about_github_pages)  
