@@ -1,4 +1,4 @@
-[References](https://damapak.github.io/emergent_database_tech/references.md)  
+[References](https://damapak.github.io/emergent_database_tech/docs/presentation_references)  
 
 Introduction  
 Technology Chosen:  MapD  
