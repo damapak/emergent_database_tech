@@ -1,6 +1,6 @@
 ## IST Group 1
 
-[REFERENCES]((https://damapak.github.io/emergent_database_tech/docs/references)
+[REFERENCES](https://damapak.github.io/emergent_database_tech/docs/references)
 
 [Introduction](#introduction)
 
