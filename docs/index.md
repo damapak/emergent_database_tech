@@ -1,4 +1,4 @@
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://github.com/damapak/emergent_database_tech/Group1_IST302Presentation.pptx]' width='100%' height='600px' frameborder='0'>
+<iframe src='https://github.com/damapak/emergent_database_tech/Group1_IST302Presentation.pptx' width='100%' height='600px' frameborder='0'>
 
 ## [References](https://github.com/damapak/emergent_database_tech/blob/master/docs/presentation_references.md)  
 
