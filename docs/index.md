@@ -1,23 +1,27 @@
-## IST Group 1
+[References]  
 
-[REFERENCES](https://damapak.github.io/emergent_database_tech/docs/references)
+Introduction  
+Technology Chosen:  MapD  
+Data Management Functions covered: 
 
-[Introduction](#introduction)
+Overview of MapD:  
+* In-memory  
+* GPU hardware
+* column store, SQL relational
+* designed to run native visualizations in real-time
 
-[Information about GitHub Pages](https://damapak.github.io/emergent_database_tech/github_pages_about)
+Architecture
+* Approach
+* Data access
+* Data Storage - typical in memory DB uses sequential writes to a transaction log for persistence; all DB is loaded into main memory
+* Comparison to traditional RDBMS:
 
-[Overview](#overview)
+  
+Performance Optimization
+* MapD
+* Comparison to traditional RDBMS
 
-#### Introduction
+Other Considerations
+* Query Compilers
 
-[top](#ist-group-1)
-
-```markdown
-## Some inline text...
-```
-
-#### Overview
-
-[top](#ist-group-1)
-
-[Presentation Outline](https://damapak.github.io/emergent_database_tech/presentation_outline)
+Conclusion
