@@ -1,3 +1,5 @@
+[References]  
+
 Introduction  
 Technology Chosen:  MapD  
 Data Management Functions covered: 
@@ -13,15 +15,15 @@ Architecture
 * Data access
 * Data Storage - typical in memory DB uses sequential writes to a transaction log for persistence; all DB is loaded into main memory
 * Comparison to traditional RDBMS:
-  * kjlkjk
+
   
 Performance Optimization
 * MapD
 * Comparison to traditional RDBMS
 
 Other Considerations
-* concurrency or transaction management
+* Query Compilers
 
 Conclusion
 
-References - see the wiki page.
+
