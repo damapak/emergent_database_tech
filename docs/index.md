@@ -2,7 +2,7 @@
 
 [Introduction](#introduction)
 
-#[PPT](https://damapak.github.io/emergent_database_tech/Group1_IST302Presentation.pdf)
+/*[PPT](https://damapak.github.io/emergent_database_tech/Group1_IST302Presentation.pdf)*/
 
 [Information about GitHub Pages](https://damapak.github.io/emergent_database_tech/github_pages_about)
 
