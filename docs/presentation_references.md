@@ -1,7 +1,7 @@
 ## REFERENCES  
 
 * MapD Source code:  [1]https://github.com/mapd/mapd-core
-* General information about column-store databases:  http://www.redbook.io/ch4-newdbms.html
+* General information about column-store databases:  [http://www.redbook.io/ch4-newdbms.html]
 * MapD optimization using Apache Calcite:  https://www.mapd.com/blog/2017/02/08/fast-and-flexible-query-analysis-at-mapd-with-apache-calcite-2/
 * GPU
   * GPU-tuned algorithms:  https://arxiv.org/pdf/1702.08734.pdf
