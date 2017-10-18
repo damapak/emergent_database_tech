@@ -26,4 +26,4 @@ Other Considerations
 
 Conclusion
 
-[About Github Pages](https://github.com/damapak/emergent_database_tech/docs/github_pages_about)  
+[About Github Pages](https://github.com/damapak/emergent_database_tech/github_pages_about)  
